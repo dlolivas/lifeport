@@ -5,7 +5,7 @@ A website that describes Diana Olivas and her work experience.
 
 ## Built With 
 * HTML
-*CSS
+* CSS
 
 ## Website
 https://github.com/dlolivas
